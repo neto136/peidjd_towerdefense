@@ -1,0 +1,1 @@
+Neste documento vamos explicar como instalar o jogo The Lord of Last Kingdom. 
