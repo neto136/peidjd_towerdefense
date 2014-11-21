@@ -157,6 +157,7 @@
     <Compile Include="Assets\Orthello\Standard Assets\OT\_Base\OTSounds.cs" />
     <Compile Include="Assets\Orthello\Standard Assets\OT\_Base\OTTimeCycle.cs" />
     <Compile Include="Assets\Orthello\Standard Assets\OT\_Base\OTTouch.cs" />
+    <Compile Include="Assets\Scripts\TileMap.cs" />
     <None Include="Assets\Orthello\Examples\0 - Simple Examples\TextSprites\lorem-ascii.txt" />
     <None Include="Assets\Orthello\Examples\0 - Simple Examples\TextSprites\Atlases\russian.txt" />
     <None Include="Assets\Orthello\Examples\4 - Follow Target View\-orthello-config.xml" />
